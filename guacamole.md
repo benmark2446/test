@@ -1,5 +1,5 @@
 # Ingredients
-- avocado
+- aubergine
 - salt
 - lime 
 
