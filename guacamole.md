@@ -1,5 +1,6 @@
 # Ingredients
 - TOMATO
+- aubergine
 - salt
 - lime 
 
