@@ -1,5 +1,5 @@
 # Ingredients
-- avocado
+- TOMATO
 - salt
 - lime 
 
